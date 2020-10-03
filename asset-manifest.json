@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FCC3-RandomQuoteMachine/static/css/main.450928df.chunk.css",
+    "main.js": "/FCC3-RandomQuoteMachine/static/js/main.e9d5f569.chunk.js",
+    "main.js.map": "/FCC3-RandomQuoteMachine/static/js/main.e9d5f569.chunk.js.map",
+    "runtime-main.js": "/FCC3-RandomQuoteMachine/static/js/runtime-main.6ee40de6.js",
+    "runtime-main.js.map": "/FCC3-RandomQuoteMachine/static/js/runtime-main.6ee40de6.js.map",
+    "static/js/2.72db6294.chunk.js": "/FCC3-RandomQuoteMachine/static/js/2.72db6294.chunk.js",
+    "static/js/2.72db6294.chunk.js.map": "/FCC3-RandomQuoteMachine/static/js/2.72db6294.chunk.js.map",
+    "index.html": "/FCC3-RandomQuoteMachine/index.html",
+    "precache-manifest.fff6d095ee1ea92d69816f7fc028b66c.js": "/FCC3-RandomQuoteMachine/precache-manifest.fff6d095ee1ea92d69816f7fc028b66c.js",
+    "service-worker.js": "/FCC3-RandomQuoteMachine/service-worker.js",
+    "static/css/main.450928df.chunk.css.map": "/FCC3-RandomQuoteMachine/static/css/main.450928df.chunk.css.map",
+    "static/js/2.72db6294.chunk.js.LICENSE.txt": "/FCC3-RandomQuoteMachine/static/js/2.72db6294.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ee40de6.js",
+    "static/js/2.72db6294.chunk.js",
+    "static/css/main.450928df.chunk.css",
+    "static/js/main.e9d5f569.chunk.js"
+  ]
+}
